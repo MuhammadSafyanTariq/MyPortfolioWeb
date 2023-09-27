@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "851489715751",
+    "project_id": "safyan-tariq-7b397",
+    "storage_bucket": "safyan-tariq-7b397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851489715751:android:1fd1f4f15251e236c3c002",
+        "android_client_info": {
+          "package_name": "com.example.sss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851489715751-g9htpihq455lkjl5ms5bu7oehbr0nuji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMbSoe-jp43tHZBw_qRVFcbVN7vZG-DHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851489715751-g9htpihq455lkjl5ms5bu7oehbr0nuji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
